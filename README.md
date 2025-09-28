@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Brian Wasike  
+ Hi, I'm Brian Wasike  
 
-🎯 **Data Analyst | Statistician | Machine Learning Enthusiast**  
-📍 Based in **Kenya**  
-🎓 **BSc in Statistics** + Certification in **Data Science & Analysis**  
+Data Analyst | Statistician | Machine Learning Enthusiast  
+ Based in Kenya 
+BSc in Statistics + Certification in Data Science & Analysis
 
 ---
 
-## 🚀 About Me  
-I’m a passionate data professional with a strong foundation in **statistics** and hands-on experience in **data science, machine learning, and analytics**.  
-I enjoy turning raw data into meaningful insights that drive smarter decision-making — especially in **finance**, **healthcare**, and **social impact** fields.
+About Me  
+I’m a passionate data professional with a strong foundation in statistics and hands-on experience in data science, machine learning, and analytics.  
+I enjoy turning raw data into meaningful insights that drive smarter decision-making — especially in finance, healthcare, and social impact fields.
 
 I’m currently enhancing my skills in:  
-- 🧠 **Machine Learning** (classification, regression, model evaluation)  
-- 🧰 **SQL** (data extraction, transformation, queries)  
-- 🐍 **Python** (Pandas, NumPy, Scikit-learn, Matplotlib)  
-- 📊 **Visualization** (Power BI, Tableau, Seaborn)  
+Machine Learning** (classification, regression, model evaluation)  
+SQL (data extraction, transformation, queries)  
+Python(Pandas, NumPy, Scikit-learn, Matplotlib)  
+Visualization (Power BI, Tableau, Seaborn)  
 
 ---
 
