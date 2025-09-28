@@ -61,11 +61,9 @@ Courses in progress: Machine Learning, SQL, Python
 
 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/brian-wasike-8a865a297)
+[LinkedIn](https://www.linkedin.com/in/your-linkedin/)
 
 Email:bwasike01@gmail.com
-
-[Kaggle Profile](https://www.kaggle.com/brianwasike)
 
 [GitHub](https://github.com/brianwasike)
 
