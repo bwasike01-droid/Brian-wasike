@@ -18,7 +18,7 @@ Visualization (Power BI, Tableau, Seaborn)
 
 ---
 
-## 🧠 Skills
+Skills
 
 | Category | Tools |
 |----------|-------|
@@ -30,7 +30,7 @@ Visualization (Power BI, Tableau, Seaborn)
 
 ---
 
-## 💼 Portfolio Projects
+Portfolio Projects
 
 🔹 [**Credit Risk Classification**](https://github.com/brianwasike/credit-risk-classification)  
 > Built a machine learning model to predict credit risk using logistic regression and random forest.  
@@ -52,8 +52,11 @@ Expanding portfolio with healthcare-focused ML projects
 ---
 
  Education & Certifications
+
 Bachelor of Science in Statistics** – [MOUNT KENYA UNIVESITY]
+
 Data Science / Analysis Certification** – [ALX AFRICA]
+
 Courses in progress: Machine Learning, SQL, Python
 
 Connect With Me
