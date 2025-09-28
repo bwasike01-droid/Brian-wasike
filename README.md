@@ -65,7 +65,7 @@ LinkedIn:www.linkedin.com/in/brian-wasike-8a865a297
 
 Email:bwasike01@gmail.com
 
-GitHub:https://github.com/bwasike01-droid/Brian-wasike/edit/main/README.md![IMG-20240616-WA0002](https://github.com/user-attachments/assets/8f5f23d2-57fa-459b-9673-2eff09e0ff39)
+GitHub:https://github.com/bwasike01-droid/Brian-wasike/edit/main/README.md
 
 
 
